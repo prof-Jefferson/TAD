@@ -4,6 +4,8 @@ class Program
 {
 	static void Main(string[] args)
 	{
+		/* *** PILHA ***
+		
 		IPilha<string> pilha = new Pilha<string>();
 
 		pilha.Push("Primeiro");
@@ -22,5 +24,24 @@ class Program
 		// Terceiro
 		// Segundo
 		// Primeiro
+		*/
+		
+		IFila<string> fila = new Fila<string>();
+
+        fila.Enqueue("Primeiro");
+        fila.Enqueue("Segundo");
+        fila.Enqueue("Terceiro");
+
+        Console.WriteLine(fila.Peek()); // Deve exibir "Primeiro"
+
+        while (!fila.IsEmpty())
+        {
+            Console.WriteLine(fila.Dequeue());
+        }
+
+        // A saída será:
+        // Primeiro
+        // Segundo
+        // Terceiro
 	}
 }
