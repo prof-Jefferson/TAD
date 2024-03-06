@@ -1,0 +1,15 @@
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\bin\Debug\net8.0\TAD.exe
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\bin\Debug\net8.0\TAD.deps.json
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\bin\Debug\net8.0\TAD.runtimeconfig.json
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\bin\Debug\net8.0\TAD.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\bin\Debug\net8.0\TAD.pdb
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\obj\Debug\net8.0\TAD.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\obj\Debug\net8.0\TAD.AssemblyInfoInputs.cache
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\obj\Debug\net8.0\TAD.AssemblyInfo.cs
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\obj\Debug\net8.0\TAD.csproj.CoreCompileInputs.cache
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\obj\Debug\net8.0\TAD.sourcelink.json
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\obj\Debug\net8.0\TAD.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\obj\Debug\net8.0\refint\TAD.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\obj\Debug\net8.0\TAD.pdb
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\obj\Debug\net8.0\TAD.genruntimeconfig.cache
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 2 - Tipos Abstratos de Dados\SRC\Aula2 - TAD\TAD\obj\Debug\net8.0\ref\TAD.dll
